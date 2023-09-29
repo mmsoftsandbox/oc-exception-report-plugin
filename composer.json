@@ -1,9 +1,14 @@
 {
-  "name": "popcornphp/exceptionreport",
+  "name": "mmsoftsandbox/oc-exception-report-plugin",
   "description": "Report about exceptions to Telegram",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/mmsoftsandbox/oc-exception-report-plugin"
+    }
+  ],
   "type": "plugin",
   "license": "MIT",
-  "homepage": "https://popcornphp.github.io",
   "authors": [
     {
       "name": "Alexander Shapoval",
